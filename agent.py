@@ -31,7 +31,7 @@ architecture_agent = Agent(
     model="gpt-4o-mini",
     tools=[WebSearchTool()],
     model_settings=ModelSettings(tool_choice="required"),
-    output_type=Architecture
+    output_type=Architecture 
 )
 
 CULINARY_AGENT_INSTRUCTIONS = ("""
