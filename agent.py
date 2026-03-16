@@ -62,7 +62,7 @@ culinary_agent = Agent(
     tools=[WebSearchTool()],
     model_settings=ModelSettings(tool_choice="required"),
     output_type=Culinary
-)
+) 
 
 CULTURE_AGENT_INSTRUCTIONS = ("""
 You are the Culture agent for a self-guided audio tour system. Given a location and the areas of interest of user, your role is to:
