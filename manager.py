@@ -18,7 +18,6 @@ from agent import FinalTour, orchestrator_agent
 from printer import Printer
 
 
-
 class TourManager:
     """
     Orchestrates the full flow  
