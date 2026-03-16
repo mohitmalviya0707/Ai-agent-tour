@@ -32,7 +32,7 @@ architecture_agent = Agent(
     tools=[WebSearchTool()],
     model_settings=ModelSettings(tool_choice="required"),
     output_type=Architecture 
-)
+) 
 
 CULINARY_AGENT_INSTRUCTIONS = ("""
 You are the Culinary agent for a self-guided audio tour system. Given a location and the areas of interest of user, your role is to:
