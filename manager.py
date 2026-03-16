@@ -21,7 +21,7 @@ from printer import Printer
 
 class TourManager:
     """
-    Orchestrates the full flow
+    Orchestrates the full flow  
     """
 
     def __init__(self) -> None:
