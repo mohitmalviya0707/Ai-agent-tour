@@ -42,7 +42,7 @@ class TourManager:
             # Get plan based on selected interests
             planner = await self._get_plan(query, interests, duration)
             
-            # Initialize research results
+            # Initialize research results 
             research_results = {}
             
             # Calculate word limits based on duration
