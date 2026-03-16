@@ -3,7 +3,7 @@ from agents import Agent, WebSearchTool
 from agents.model_settings import ModelSettings  
 from pydantic import BaseModel
 from agents import Agent, WebSearchTool
-from agents.model_settings import ModelSettings
+from agents.model_settings import ModelSettings 
 
 ARCHITECTURE_AGENT_INSTRUCTIONS = ("""
 You are the Architecture agent for a self-guided audio tour system. Given a location and the areas of interest of user, your role is to:
