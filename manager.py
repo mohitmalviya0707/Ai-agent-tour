@@ -201,7 +201,7 @@ class TourManager:
             total_words,
             duration
         )
-        
+         
         result = await Runner.run( 
             orchestrator_agent,
             prompt
