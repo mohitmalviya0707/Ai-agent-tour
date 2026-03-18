@@ -3,7 +3,7 @@ from typing import Any
 from rich.console import Console, Group
 from rich.live import Live
 from rich.spinner import Spinner
-  
+      
 
 class Printer:
     """
