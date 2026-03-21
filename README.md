@@ -4,7 +4,7 @@
 
 An advanced Generative AI project that creates personalized audio tours using multiple AI agents.
 
-## 🚀 Features   f
+## 🚀 Features  
 
 - Multi-Agent Architecture (Planner, Architecture, History, Culture, Culinary)
 - Real-time Web Search Integration
